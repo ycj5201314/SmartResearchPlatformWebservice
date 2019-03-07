@@ -1,0 +1,40 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\Webservice.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\Webservice.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\Webservice.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\obj\Release\Webservice.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\obj\Release\Webservice.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Webservice\Webservice\obj\Release\Webservice.pdb
+D:\Project\Webservice\Webservice\bin\roslyn\csc.exe
+D:\Project\Webservice\Webservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Webservice\Webservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Webservice\Webservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Webservice\Webservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Webservice\Webservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Webservice\Webservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Webservice\Webservice\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Webservice\Webservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Webservice\Webservice\bin\roslyn\vbc.exe
+D:\Project\Webservice\Webservice\bin\roslyn\VBCSCompiler.exe
+D:\Project\Webservice\Webservice\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Webservice\Webservice\bin\Webservice.dll.config
+D:\Project\Webservice\Webservice\bin\Webservice.dll
+D:\Project\Webservice\Webservice\bin\Webservice.pdb
+D:\Project\Webservice\Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Webservice\Webservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Webservice\Webservice\obj\Release\Webservice.csprojResolveAssemblyReference.cache
+D:\Project\Webservice\Webservice\obj\Release\Webservice.dll
+D:\Project\Webservice\Webservice\obj\Release\Webservice.pdb
